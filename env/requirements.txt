@@ -1,0 +1,11 @@
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+fairseq==0.12.2
+transformers==4.36.2
+datasets==2.18.0
+soundfile
+librosa
+scikit-learn
+joblib
+tqdm
