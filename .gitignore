@@ -1,4 +1,8 @@
 fairseq
-data
-checkpoints
+data/
+checkpoints/
+result_audio/
+*.log
+*.wav
+*.mp3
 
